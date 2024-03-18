@@ -8,6 +8,10 @@ app_license = "MIT"
 # Includes in <head>
 # ------------------
 
+
+app_include_css = ["select_language.bundle.css"]
+app_include_js = "select_language.bundle.js"
+
 # include js, css files in header of desk.html
 # app_include_css = "/assets/language_switcher/css/language_switcher.css"
 # app_include_js = "/assets/language_switcher/js/language_switcher.js"

@@ -1,0 +1,59 @@
+/* ../../../../../tmp/tmp-21033-pf9ovtGvku1j/language_switcher/language_switcher/public/select_language.bundle.css */
+.dropbtn {
+  font-size: 18px;
+  cursor: pointer;
+  margin-top: 9px;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  max-height: 320px;
+  overflow-y: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+.dropdown-content li {
+  color: black;
+  padding: 5px 0px;
+  text-decoration: none;
+  display: block;
+}
+.dropdown-content li:hover {
+  cursor: pointer;
+}
+.dropdown-content li:hover {
+  background-color: #f1f1f1;
+}
+.show {
+  display: block;
+}
+#loadingOverlay {
+  display: none;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  z-index: 2;
+  cursor: progress;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+#loadingOverlay div {
+  display: inline-block;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+/*# sourceMappingURL=select_language.bundle.XSTDWKAO.css.map */
